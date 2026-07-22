@@ -23,8 +23,8 @@ I am a **Computer Engineering** student with a deep passion for backend architec
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Trophies & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyhnern&show_icons=true&theme=radical&hide_border=true" alt="Ceyhun's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyhnern&theme=radical" alt="GitHub Summary Card" />
 </p>
