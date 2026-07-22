@@ -21,6 +21,3 @@ I am a **Computer Engineering** student with a deep passion for backend architec
 * **[Subwallet](https://github.com/Cyhnern/SUBWALLET):** A subscription & wallet management super-app featuring modular monolith architecture, full CRUD, state machines, and a BullMQ reminder queue.
 * **[DevPilot](https://github.com/Cyhnern/DevPilot):** An AI-assisted engineering and API platform designed for local testing, automation, and intelligent developer workflows.
 * 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyhnern&theme=radical" alt="GitHub Summary Card" />
-</p>
