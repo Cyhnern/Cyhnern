@@ -8,7 +8,7 @@ I am a **Computer Engineering** student with a deep passion for backend architec
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** TypeScript, JavaScript, SQL , Python
+* **Languages:** TypeScript, JavaScript, SQL , Python ,HTML
 * **Backend & Frameworks:** Node.js, NestJS, Express
 * **Databases & Caching:** PostgreSQL, Redis, Prisma ORM
 * **Infrastructure & DevOps:** Docker, Git, Vercel, Linux
